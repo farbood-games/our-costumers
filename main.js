@@ -16,7 +16,9 @@ const detailsData = {
   },
   "fanap-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213469538376445952?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h2>گزارش کارگاه-بازی ارتباط موثر</h2>`,
+<h2>گزارش کارگاه-بازی ارتباط موثر</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7243553855886491648?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>کارگاه-بازی کار تیمی</h2>`,
   },
   "zarrino-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7219288258168451072?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -191,6 +193,10 @@ const detailsData = {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7144319814738640897?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>رویداد ری‌برندینگ</h2>`,
   },
+  "thekavani-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7248279314805178368?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>طراحی بازی برای افتتاحیه فروشگاه</h2>`,
+  },
   "solico-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7101146914544312320?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>کارگاه-بازی تعامل موثر و هماهنگ</h2>
@@ -224,6 +230,10 @@ const detailsData = {
 <h2>کارگاه-بازی تعامل موثر و هماهنگ</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7115306866682810368?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد خانم نرجس ولیپور از کارگاه-بازی تعامل موثر و هماهنگ</h2>`,
+  },
+  "ut-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7231962967087460352?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>رویداد روز جهانی طراحی صنعتی</h2>`,
   },
   "lamaso-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7112021970518425600?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
