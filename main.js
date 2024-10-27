@@ -18,7 +18,9 @@ const detailsData = {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7213469538376445952?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>گزارش کارگاه-بازی ارتباط موثر</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7243553855886491648?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h2>کارگاه-بازی کار تیمی</h2>`,
+<h2>کارگاه-بازی کار تیمی</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7250797510967930880?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد رئیس حسابداری از کارگاه-بازی کار تیمی</h2>`,
   },
   "zarrino-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7219288258168451072?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -238,6 +240,12 @@ const detailsData = {
   "lamaso-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7112021970518425600?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>رویداد جشن تولد سازمان</h2>`,
+  },
+  "isqi-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7253322286848524288?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>رویداد بازی متمرکز بر حل مسئله و کار تیمی</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7255878162637631488?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد مدیر منابع انسانی از رویداد بازی</h2>`,
   },
 };
 
