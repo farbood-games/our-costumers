@@ -247,6 +247,10 @@ const detailsData = {
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7255878162637631488?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد مدیر منابع انسانی از رویداد بازی</h2>`,
   },
+  "mahram-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7257316363117957120?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>کارگاه-بازی ارتباط موثر</h2>`,
+  },
 };
 
 logos.forEach((logo) => {
