@@ -10,7 +10,9 @@ const pageBody = document.querySelector("body");
 const detailsData = {
   "hamrahe-aval-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7220406546650853376?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h2>طراحی بازی اختصاصی برای آنبوردینگ</h2>
+<h2>طراحی بازی اختصاصی «کارآگاه همراه» برای آنبوردینگ</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7267149814511853568?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>تست‌ اجرای بازی کارآگاه همراه</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7157719827048992768?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>طراحی بازی اختصاصی: شهاب‌سنگ</h2>`,
   },
@@ -65,7 +67,9 @@ const detailsData = {
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7152965242795278336?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد مدیر منابع انسانی از بازی ارزیابی</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7132293429878751232?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h2>طراحی بازی برای غرفه در نمایشگاه کار</h2>`,
+<h2>طراحی بازی برای غرفه در نمایشگاه کار</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7268733467717206017?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>رویداد تیم‌سازی فضای باز</h2>`,
   },
   "snappfood-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7198279290109444097?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -249,7 +253,15 @@ const detailsData = {
   },
   "mahram-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7257316363117957120?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h2>کارگاه-بازی ارتباط موثر</h2>`,
+<h2>کارگاه-بازی ارتباط موثر</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259533431972278273?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد رئیس امور کارکنان از کارگاه-بازی ارتباط موثر</h2>`,
+  },
+  "conf-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7262052384284053504?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازیوارسازی یازدهمین کنفرانس ملی آموزش و توسعه سرمایه انسانی</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7263463953219862528?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد دبیر کمیسیون نوآوری و فناوری انجمن آموزش و توسعه‌ی منابع انسانی ایران</h2>`,
   },
 };
 
