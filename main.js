@@ -62,7 +62,8 @@ const detailsData = {
 <h2>بازخورد مدیر منابع انسانی از رویداد بازی</h2>`,
   },
   "digikala-button": {
-    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7149394306301063168?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7270005548769550339?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد HRBP دپارتمان اد سرویس از رویداد بازی</h2><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7149394306301063168?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>طراحی بازی اختصاصی برای ارزیابی منابع انسانی</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7152965242795278336?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد مدیر منابع انسانی از بازی ارزیابی</h2>
@@ -99,6 +100,18 @@ const detailsData = {
   "snapptrip-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7157424575885033472?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>طراحی بازی کارتی اختصاصی برای جشن یلدا</h2>`,
+  },
+  "snapp-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7272186958372560896?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>سلسله کارگاه-بازی تعامل موثر</h2>`,
+  },
+  "snappgrocery-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7275079030909943808?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>تجربه تیم‌سازی مدیران</h2>`,
+  },
+  "asanSarmaye-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7273643921702895616?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازیوارسازی جشن تولد سازمان</h2>`,
   },
   "fakoor-button": {
     detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7191355877830864896?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -163,8 +176,16 @@ const detailsData = {
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7159552284211757056?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد سرپرست آموزش از کارگاه-بازی</h2>`,
   },
+  "pakvash-button": {
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7279779032718573568?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد از سفر تیم‌سازی</h2>`,
+  },
   "tata-button": {
-    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7163174376513748995?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7278768612813811712?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد مدیر طرح و توسعه سازمان و سرمایه انسانی، و کارشناس منابع انسانی از رویداد روز برنامه‌نویس</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7278010573559107584?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>رویداد روز برنامه‌نویس</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7163174376513748995?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>جشن آنلاین یلدا</h2>`,
   },
   "avakatan-button": {
@@ -252,7 +273,11 @@ const detailsData = {
 <h2>بازخورد مدیر منابع انسانی از رویداد بازی</h2>`,
   },
   "mahram-button": {
-    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7257316363117957120?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    detail: `<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7277258282799435777?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>کارگاه-بازی کار تیمی</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7276538801038974976?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<h2>بازخورد رئیس آموزش و توسعه منابع انسانی از کارگاه-بازی کار تیمی</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7257316363117957120?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>کارگاه-بازی ارتباط موثر</h2>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259533431972278273?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <h2>بازخورد رئیس امور کارکنان از کارگاه-بازی ارتباط موثر</h2>`,
