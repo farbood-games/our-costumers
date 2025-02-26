@@ -39,6 +39,7 @@ header {
 }
 .filter-btn {
   font-family: diodrum;
+  color: black;
   background-color: rgb(255, 255, 255);
   padding-inline: 5px;
   padding-block: 5px;
