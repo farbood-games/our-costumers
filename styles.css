@@ -38,6 +38,7 @@ header {
   justify-content: space-between;
 }
 .filter-btn {
+  font-family: diodrum;
   background-color: rgb(255, 255, 255);
   padding-inline: 5px;
   padding-block: 5px;
